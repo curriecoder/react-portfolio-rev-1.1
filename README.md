@@ -1,8 +1,8 @@
 # React Portfolio
 
-Deployed: https://curriecoder.github.io/react-portfolio-rev1.1/
+Deployed: https://curriecoder.github.io/react-portfolio-rev-1.1/
 
-Repo: https://github.com/curriecoder/react-portfolio-rev1.1
+Repo: https://github.com/curriecoder/react-portfolio-rev-1.1
 
 ## Description
 
